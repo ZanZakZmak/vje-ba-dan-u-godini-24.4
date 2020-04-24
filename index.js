@@ -24,8 +24,8 @@ broj_dana=broj_dana+day;
 return broj_dana;
 }
 
-console.log(dayOfYear(2020, 10, 15));
 console.log(dayOfYear(2020, 12, 31));
 console.log(dayOfYear(2012, 1, 1));
 console.log(dayOfYear(2012, 2, 1));
+console.log(dayOfYear(2012, 3, 1));
 //console.log(dayOfYear(year, month, day));
